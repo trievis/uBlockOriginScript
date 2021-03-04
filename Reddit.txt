@@ -1,0 +1,8 @@
+www.reddit.com##.icon-comment:upward(button)
+www.reddit.com##.icon-report:upward(button)
+www.reddit.com##.icon-save:upward(button)
+www.reddit.com##.icon-share:upward(button)
+www.reddit.com##.icon-gift:upward(button)
+www.reddit.com##.icon-hide:upward(button)
+
+www.reddit.com##._374Hkkigy4E4srsI2WktEd
